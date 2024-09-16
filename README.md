@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kona a.k.a Hao Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Kona a.k.a Hao Nguyen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
 <h3 align="center">I'm currently studying at <a href="https://ecard-singleid.cmc-u.edu.vn/uuid/SV_46a97e41-f177-416c-a2b1-18ba2af20710">CMC University</a></h3>
 
 
